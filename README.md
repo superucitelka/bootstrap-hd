@@ -1,1 +1,1 @@
-"# Ukázková příklad použití frameworku Bootstrap" 
+"# Ukázkový příklad použití frameworku Bootstrap" 
